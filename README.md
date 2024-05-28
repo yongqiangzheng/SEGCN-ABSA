@@ -54,13 +54,14 @@ The code in this repository is based on [ASGCN](https://github.com/GeneZC/ASGCN)
 
 ## **Citation**
 ```bibtex
-@article{ZHENG2023151,
+@article{zheng2023store,
     title = {Store, share and transfer: Learning and updating sentiment knowledge for aspect-based sentiment analysis},
     author = {Yongqiang Zheng and Xia Li and Jian-Yun Nie},
     journal = {Information Sciences},
     volume = {635},
     pages = {151-168},
     year = {2023},
+    publisher={Elsevier}
     issn = {0020-0255},
     doi = {https://doi.org/10.1016/j.ins.2023.03.102},
     url = {https://www.sciencedirect.com/science/article/pii/S0020025523004279},
